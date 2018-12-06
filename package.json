@@ -1,0 +1,28 @@
+{
+  "name": "littledb",
+  "version": "1.0.0",
+  "description": "lowdb sample for 1.125",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abel@mit.edu",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "lowdb": "^1.0.0",
+    "require": "^2.4.20",
+    "superagent": "^4.0.0",
+    "web3": "^0.20.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lzhtongji/badbank.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lzhtongji/badbank/issues"
+  },
+  "homepage": "https://github.com/lzhtongji/badbank#readme"
+}
